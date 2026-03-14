@@ -25,5 +25,5 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Lingfeng Li received his B.S. degree from Harbin Institute of Technology (ShenZhen) in 2023, Shenzhen, China. He is currently pursuing the M.S. degree with the University of Science and Technology of China, Heifei, China.
+No Information
 
